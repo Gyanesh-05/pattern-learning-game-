@@ -1,1 +1,2 @@
-# pattern-learning-game-
+# SimonGame
+simon game using jquery css and html
